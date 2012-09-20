@@ -1,56 +1,42 @@
-<style>
+@font-face {
+    font-family: 'MuseoSlab500Regular';
+    src: url('Font/Museo_Slab_500-webfont.eot');
+    src: url('Font/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Font/Museo_Slab_500-webfont.woff') format('woff'),
+         url('Font/Museo_Slab_500-webfont.ttf') format('truetype'),
+         url('Font/Museo_Slab_500-webfont.svg#MuseoSlab500Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
-h1 {font-family: Garamond, Arial, sans-serif;} 
-</style>
+}
 
-<style>
-body <link href='http://fonts.googleapis.com/css?family=Life+Savers' rel='stylesheet' type='text/css'>
-
-</style>
-
-<h1 style="text-align:left;"><font size=7>Cecilia M&aacuterquez</font></h1>
-
-<style type="text/css">
+  
   a { color: indigo; background: darkturquoise; }
-</style>
 
 
-<style type="text/css">
-  body { margin-left: 5%; margin-right: 5%; }
-</style>
-
-<style type="text/css">
+  
   h1{ color: indigo; background: silver; }
-</style>
-
-<style type="text/css">
-  body { color: purple; background: silver; }
-</style>
 
 
 
+  body { color: purple; background: silver; width:700px; margin: 20px auto; font-family: 'MuseoSlab500Regular', serif;}
 
 
-<style type="text/css">
-  body { margin-left: 10%; margin-right: 10%; }
-</style>
 
-<style type="text/css">
-  h1{ color: indigo; background: silver; }
-</style>
+header img{display:block; float:right;}
+header h1{float:left;}
+header nav{display:block; clear:both;}
 
-<style type="text/css">
+
+
+
+
   h2{ color: red; background: gray; }
-</style>
 
-<style type="text/css">
-  h3{ color: teal; background: silver; }
-</style>
 
-<style type="text/css">
+
+  h3{ color: teal; background: silver; text-align: center; text-transform: uppercase;}
+
+
+
   h4{ color: navy; background: silver; }
-</style>
-
-<style type="text/css">
-  body { color: purple; background: silver; }
-</style>
