@@ -11,7 +11,7 @@
 }
 
   
-  a { color: indigo; background: darkturquoise; }
+  a { color: indigo; background: darkturquoise; text-decoration: none; }
 
 
   
@@ -19,13 +19,25 @@
 
 
 
-  body { color: purple; background: silver; width:700px; margin: 20px auto; font-family: 'MuseoSlab500Regular', serif;}
+  body { color: #444; background: silver; width:700px; margin: 20px auto; font-family: 
+    'MuseoSlab500Regular', serif;}
+    .contact {text-align: center;}
 
+h5 {font-family: 'MuseoSLAB500Regular,' serif;}
 
-
-header img{display:block; float:right;}
+header img{display:block; float:right; margin-bottom: 20px;}
 header h1{float:left;}
-header nav{display:block; clear:both;}
+header nav{display:block; clear:both; border-top:1px solid black;}
+
+nav ul {list-style: none; margin-left: 0; padding-left: 0}
+
+nav li {display:inline;}
+
+nav li+li:before {
+  content: "◎";
+  color: black;
+  padding: 0 4px;
+}
 
 
 
