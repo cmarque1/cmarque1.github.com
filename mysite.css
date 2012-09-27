@@ -1,5 +1,10 @@
+
+
+
+
+
 @font-face {
-    font-family: 'MuseoSlab500Regular';
+    font-family: 'Museo Slab';
     src: url('Font/Museo_Slab_500-webfont.eot');
     src: url('Font/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'),
          url('Font/Museo_Slab_500-webfont.woff') format('woff'),
@@ -10,45 +15,53 @@
 
 }
 
+#socialmedia {text-align:center;}
+#socialmedia img {width: 30px; height: 30px;}
+  a { color: teal; background: cornsilk; text-decoration: none; }
+
+  html {
+
+  background: bisque url(mississippi2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;}
   
-  a { color: indigo; background: darkturquoise; text-decoration: none; }
-
-
-  
-  h1{ color: indigo; background: silver; }
+  h1{  background: cornsilk; font-size: 200%;}
 
 
 
-  body { color: #444; background: silver; width:700px; margin: 20px auto; font-family: 
-    'MuseoSlab500Regular', serif;}
+  body { color: #444; 
+    background: cornsilk;
+    width:700px; 
+    margin: 50px auto; 
+    font-family: 'Museo Slab', serif;
+    padding: 20px;
+
+    border-radius: 20px;
+    color: dimgray;
+  }
+
     .contact {text-align: center;}
 
-h5 {font-family: 'MuseoSLAB500Regular,' serif;}
-
-header img{display:block; float:right; margin-bottom: 20px;}
-header h1{float:left;}
-header nav{display:block; clear:both; border-top:1px solid black;}
+header {text-align: center;}
+header img{margin-bottom: 20px; border-radius: 20px;}
+header nav{display:block;}
 
 nav ul {list-style: none; margin-left: 0; padding-left: 0}
 
-nav li {display:inline;}
+nav li {display:inline-block;}
 
-nav li+li:before {
-  content: "◎";
-  color: black;
-  padding: 0 4px;
-}
+nav a {padding: 5px 15px;}
 
 
 
-
-
-  h2{ color: red; background: gray; }
-
-
-
-  h3{ color: teal; background: silver; text-align: center; text-transform: uppercase;}
+  h2{ color: red; background: cornsilk; }
 
 
 
-  h4{ color: navy; background: silver; }
+  h3{ color: #777; background: cornsilk; text-align: center; text-transform: uppercase;}
+
+
+
+  h4{ color: navy; background: cornsilk; }
