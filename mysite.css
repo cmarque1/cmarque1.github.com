@@ -1,7 +1,6 @@
 
 
 
-
 @font-face {
     font-family: 'Museo Slab';
     src: url('Font/Museo_Slab_500-webfont.eot');
@@ -27,7 +26,8 @@ h1:hover {
 #socialmedia {text-align:center;}
 #socialmedia img {width: 30px; height: 30px;}
   a { color: teal; background: cornsilk; text-decoration: none; }
-  #socialmedia: {hover: none;}
+ 
+#socialmedia {TEXT-DECORATION: none; font-weight: normal }
 
   html {
 
