@@ -2,7 +2,6 @@
 
 
 
-
 @font-face {
     font-family: 'Museo Slab';
     src: url('Font/Museo_Slab_500-webfont.eot');
@@ -14,6 +13,17 @@
     font-style: normal;
 
 }
+
+a:hover {
+  color: #31312D ;
+  background-color: tan ;}
+
+h1:hover {
+  color: #31312D ;
+  background-color:tan;
+}
+
+
 
 #socialmedia {text-align:center;}
 #socialmedia img {width: 30px; height: 30px;}
