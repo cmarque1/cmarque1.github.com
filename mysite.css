@@ -2,6 +2,7 @@
 
 
 
+
 @font-face {
     font-family: 'Museo Slab';
     src: url('Font/Museo_Slab_500-webfont.eot');
@@ -24,7 +25,6 @@ h1:hover {
 }
 
 
-
 #socialmedia {text-align:center;}
 #socialmedia img {width: 30px; height: 30px;}
   a { color: teal; background: cornsilk; text-decoration: none; }
@@ -37,7 +37,8 @@ h1:hover {
     -o-background-size: cover;
     background-size: cover;}
   
-  h1{  background: cornsilk; font-size: 200%;}
+  h1{  background: cornsilk; font-size: 200%;
+    text-align: center;}
 
 
 
@@ -66,12 +67,14 @@ nav a {padding: 5px 15px;}
 
 
 
-  h2{ color: red; background: cornsilk; }
+  h2{ color: #484843; background: cornsilk; 
+    font-size: 150%}
 
 
 
-  h3{ color: #777; background: cornsilk; text-align: center; text-transform: uppercase;}
+  h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
 
 
 
-  h4{ color: navy; background: cornsilk; }
+  h4{ color: #2E2D1F; background: cornsilk; 
+      text-align: center;}
