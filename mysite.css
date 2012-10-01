@@ -83,28 +83,12 @@ nav a {padding: 5px 15px;}
 
 
 
-  h2{ color: #484843; background: cornsilk; 
-    font-size: 150%}
-<<<<<<< HEAD
+h2{ color: #484843; background: cornsilk; 
+  font-size: 150%}
 
-=======
->>>>>>> ad41fb3f738f7c6a9fcb23b818cb59f9f799ef9d
+h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
 
+h4{ color: #2E2D1F; background: cornsilk; 
+    text-align: center;}
 
-  h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
-
-<<<<<<< HEAD
-=======
-  h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
->>>>>>> ad41fb3f738f7c6a9fcb23b818cb59f9f799ef9d
-
-
-  h4{ color: #2E2D1F; background: cornsilk; 
-      text-align: center;}
-
-<<<<<<< HEAD
-  h5{text-align: center;}
-=======
-  h4{ color: #2E2D1F; background: cornsilk; 
-      text-align: center;}
->>>>>>> ad41fb3f738f7c6a9fcb23b818cb59f9f799ef9d
+h5{text-align: center;}
