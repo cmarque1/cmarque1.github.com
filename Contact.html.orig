@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset="utf-8">
+<title>Cecilia Márquez</title>
+<link rel="stylesheet" href="mysite.css">
+</head>
+
+<body class="contact">
+<<<<<<< HEAD
+
+=======
+<img style src="Headshots/headshot2.jpg" width="160" height="233.2"></h1>
+>>>>>>> ad41fb3f738f7c6a9fcb23b818cb59f9f799ef9d
+
+
+<a href="index.html" target="_self">
+<h1>
+Cecilia Márquez</h1></a>
+
+</a>
+
+
+<p id="contactinfo">
+Corcoran Department of History <br>
+Nau Hall-South Lawn<br>
+Charlottesville, VA
+22903<br><br>
+
+marquez@virginia.edu<br><br>
+(703) 216-1630
+
+</p>
+</body>
+
+</html>
