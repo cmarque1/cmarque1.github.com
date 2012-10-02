@@ -27,10 +27,11 @@ header h1:hover {
 #socialmedia {text-align: center;}
 #socialmedia a {background-color: none}
 
-#socialmedia img {width: 30px; height: 30px;}
   a { color: teal; background: cornsilk; text-decoration: none; }
 
 #socialmedia img{
+    width: 30px;
+    height: 30px;
     border: 5px solid #ccc;
     float: left;
     margin: 15px;
