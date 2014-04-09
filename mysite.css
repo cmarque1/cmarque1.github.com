@@ -89,10 +89,10 @@ nav a {padding: 5px 15px;}
 h2{ color: #484843; background: cornsilk; 
   font-size: 150%}
 
-h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
+h3{ color: #484843; background: cornsilk; text-align: left; text-transform: uppercase;}
 
 h4{ color: #2E2D1F; background: cornsilk; 
-    text-align: center;}
+    text-align: left;}
 
-h5{text-align: center;}
+h5{text-align: left;}
 
