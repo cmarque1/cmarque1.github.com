@@ -40,6 +40,7 @@ header h1:hover {
 
   a { color: teal; background: cornsilk; text-decoration: none; }
 
+
 #socialmedia img{
     width: 30px;
     height: 30px;
@@ -95,4 +96,8 @@ h4{ color: #2E2D1F; background: cornsilk;
     text-align: center;}
 
 h5{text-align: center;}
+
+h6{text-transform: uppercase; font-size: 100%; 
+  text-shadow: 0px 2px 3px #666;}
+
 
